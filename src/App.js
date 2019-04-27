@@ -13,6 +13,7 @@ class App extends Component {
             This is a test
             Test #2
           </p>
+          <p>New Feature through branch</p>
           <a
             className="App-link"
             href="https://reactjs.org"
